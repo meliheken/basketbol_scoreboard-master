@@ -1,0 +1,46 @@
+body {
+    background-image: url("basketball1.jpg");
+    background-size: cover;
+    margin: 0;
+    text-align: center;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background: #0C4A6E;
+    max-width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    opacity: 0.8;
+    border-radius: 10px;
+    text-shadow: 4px 2px #0a0001;
+
+
+}
+#home-score {
+    background: #0a0001;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+
+}
+#guest-score {
+    background: #0a0001;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+button {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+}
+h3 {
+    font-size: 40px;
+    color: white;
+    font-family: 'verdana', sans-serif;
+}
